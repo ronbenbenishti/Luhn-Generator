@@ -29,5 +29,7 @@ chmod +x setup.py
 ./setup build_exe
 ```
 All the relevant files will appear in _‘\build\exe.win-amd64-2.7\’_
+
 Run _‘luhn.exe’_
+
 After running, python and modules requirements are not relevant for the client side.
