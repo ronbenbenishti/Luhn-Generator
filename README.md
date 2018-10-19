@@ -2,7 +2,7 @@
 A simple script designed to check the integrity of a control digit
 
 
-![Image of Yaktocat](https://github.com/ronbenbenishti/Luhn-Generator/blob/master/screenshots/ss.png)
+![Image](https://github.com/ronbenbenishti/Luhn-Generator/blob/master/screenshots/ss.png)
 
 
 # Getting Started #
